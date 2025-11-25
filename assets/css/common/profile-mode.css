@@ -1,7 +1,7 @@
 .buttons,
 .main .profile {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 .main .profile {
     align-items: center;
@@ -14,12 +14,13 @@
 .profile .profile_inner {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 10px;
 }
 
 .profile .profile_inner h1 {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    align-items: flex-start;
 }
 
 .profile img {

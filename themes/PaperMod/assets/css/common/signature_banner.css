@@ -1,0 +1,17 @@
+.sigbanner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: var(--header-height);
+    background: var(--code-bg);
+}
+
+.sigbanner span {
+    margin: auto 3px;
+    font-size: 16px;
+    font-weight: 200;
+}

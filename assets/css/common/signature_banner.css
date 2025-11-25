@@ -1,0 +1,18 @@
+.sigbanner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: var(--banner-height);
+    background: linear-gradient(90deg, var(--banner-color-primary) 0%, var(--banner-color-primary-darker) 100%);
+}
+
+.sigbanner span {
+    margin: auto 3px;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--banner-text-color);
+}

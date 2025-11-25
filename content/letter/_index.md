@@ -9,7 +9,7 @@ disableAnchoredHeadings: false
 ---
 
 # Letter to England Korfball
-#### [Co-Sign the letter here](https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header) - 1 Signature so far! <sup><sup><sub>(updated daily)</sub></sup></sup>
+####  <sup><sup>[Co-Sign the letter here](https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header)</sup></sup>
 
 ---
 
@@ -33,8 +33,12 @@ Sincerely,\
 Jennifer Cresswell\
 Korfer since 2019
 
-#### If you agree that Korfball should be inclusive for everyone please [co-sign the letter here](https://www.google.com)
-
+---
+#  
+#   
+### If you agree that Korfball should be inclusive for everyone please [co-sign the letter here!](https://www.google.com)
+#   
+#
 ---
 
 ### References

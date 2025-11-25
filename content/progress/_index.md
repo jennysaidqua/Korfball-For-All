@@ -3,12 +3,14 @@ title: "Progress"
 author: ["Jennifer Cresswell"]
 ---
 
-# 1 Signature so far! From 1 Club! 
-#### [Co-sign today!](https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header)
+# Campaign Progress
+
+### 1 Signature so far
+### 1 Club represented in signatures
 
 ---
 
-## Club represented in signatures
+## Clubs Represented
 
 - Nottingham Korfball Club (NKC)
 

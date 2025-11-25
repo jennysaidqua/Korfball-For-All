@@ -17,6 +17,7 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+    {{- partial "signature_banner.html" . .Page -}}
     {{- partialCached "header.html" . .Page -}}
     <main class="main">
         {{- block "main" . }}{{ end }}

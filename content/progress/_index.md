@@ -5,7 +5,7 @@ author: ["Jennifer Cresswell"]
 
 # Campaign Progress
 
-### 1 Signature so far
+### 2 Signature so far
 ### 1 Club represented in signatures
 
 ---

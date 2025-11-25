@@ -5,8 +5,10 @@ author: ["Jennifer Cresswell"]
 
 # Campaign Progress
 
-### 2 Signatures so far
-### 1 Club represented in signatures
+---
+
+## <p style="text-align:center;">{{< param "sigbanner.signatures" >}} Signatures so far</p>
+## <p style="text-align:center;">{{< param "sigbanner.clubs" >}} Club represented in signatures</p>
 
 ---
 

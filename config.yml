@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://www.korfball4all.co.uk" 
+title: Korfball For All
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,30 +12,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Letter
+          url: letter/
+          weight: 5
+        - name: Co-sign the letter
+          url: https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header
           weight: 6
+        - name: Campaign Progress
+          url: progress/
+          weight: 7
+        - name: EK Gender Policy
+          url: https://englandkorfball.co.uk/england-korfball-gender-policy/
+          weigth: 8
+
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This is a website built to urge England Korfball (and the IKF) to adopt more inclusive policies for Korfball. So Korfball is again for everyone."
+    author: Jennifer Cresswell
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "November 2025"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -44,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["letter","sign"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +52,20 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Korfball For All
+          subtitle: "Hi, I'm Jenny, I am a trans woman who has played Korfball since 2019. I believe everyone should feel welcome to play Korfball. The latest England Korfball gender policy actively works against inclusion, let's call for a change! For information on why the new policy is discriminatory and uninclusive, please see the letter I have written, and co-sign if you agree it should change!"
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+            - name: Letter
+              url: letter/
+            - name: Co-sign the letter
+              url: https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header
+            - name: Campaign progress
+              url: progress/
+            - name: EK Gender Policy
+              url: https://englandkorfball.co.uk/england-korfball-gender-policy/
 
     assets:
         disableScrollBarStyle: true
@@ -105,8 +73,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Korfball for All"
+      icon: picture.png
       iconHeight: 18
 
 markup:

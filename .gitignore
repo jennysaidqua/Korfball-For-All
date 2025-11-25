@@ -1,4 +1,14 @@
-# Hugo build artifacts
-public/
-resources/
-.hugo_build.lock
+-# Hugo build artifacts
+-public/
+-resources/
+-.hugo_build.lock
+
+
+._*
+.DS_Store
+
+**/cmake-build*
+/build
+
+.vscode
+

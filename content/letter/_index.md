@@ -36,7 +36,7 @@ Korfer since 2019
 ---
 #  
 #   
-### If you agree that Korfball should be inclusive for everyone please [co-sign the letter here!](https://www.google.com)
+### If you agree that Korfball should be inclusive for everyone please [co-sign the letter here!](https://docs.google.com/forms/d/e/1FAIpQLSexgN4uZ_ohFDFGAYzjveEcj0GJ19RXTdDan8sM83Lb6jkl_w/viewform?usp=header)
 #   
 #
 ---

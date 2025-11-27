@@ -54,8 +54,8 @@ params:
           enabled: true
           title: Korfball For All
           subtitle: "Hi, I'm Jenny, I am a trans woman who has played Korfball since 2019. I believe everyone should feel welcome to play Korfball."
-          subtitle2: "The latest England Korfball gender policy actively works against inclusion, so I made this site to call for change with the backing of the Korfball community!"
-          subtitle3: "For information on why the new policy is discriminatory and uninclusive, please see the letter I have written, and co-sign if you agree it should change!"
+          subtitle2: "The latest England Korfball gender policy actively works against inclusion, so I made this site to call for change, and get the backing of the Korfball community!"
+          subtitle3: "For information on why the new policy is discriminatory and uninclusive, please see the letter I have written, and co-sign if you agree the policy should change!"
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160

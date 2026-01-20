@@ -17,6 +17,8 @@ author: ["Jennifer Cresswell"]
 - Nottingham Korfball Club (NKC)
 - Sheffield City
 - Wales
+- Nottingham Trent
+- Leeds Beckett
 
 ---
 
@@ -28,6 +30,10 @@ author: ["Jennifer Cresswell"]
 
 - **Joanne Davies (played 5-10 years) - NKC, Wales**<br>This campaign has my full support. It’s inappropriate to make decisions based on current socio-cultural trends, especially as those trends are driven by fear-mongering in the media. Trans women have the right to be safe and to be themselves without having constant hyper visibility thrust upon them. 
 Good luck, Jen. I think you’re brave. 
+
+- **Jonny Steer (played 5-10 years) - NKC**<br>I fully agree with the sentiments of the letter. The inclusive nature of korfball is a huge part of what drew me to the sport and so the recent change in policy was very disappointing. I hope England Korfball will reconsider the policy so as to enable everyone to participate in the sport we all love.
+
+- **Billie Westwood (played 2-3 years) - NKC**<br>I want to make it absolutely clear that I stand in complete solidarity with this letter and its concerns. The issues raised reflect not only my own views, but the values of fairness, dignity, and inclusion that I believe should be central to korfball. I fully support the call for England Korfball to reconsider this policy and to work meaningfully with trans and non-binary athletes to ensure the sport remains welcoming and accessible to all.
 
 ---
 

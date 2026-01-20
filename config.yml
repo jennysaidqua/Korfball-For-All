@@ -82,7 +82,7 @@ params:
       signatures: 18
       clubs: 7
       message: "Signatures: "
-      message2: "Clubs involved: "
+      message2: "Clubs represented: "
 
 markup:
     goldmark:

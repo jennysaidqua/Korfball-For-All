@@ -22,6 +22,12 @@ author: ["Jennifer Cresswell"]
 - Leeds City
 - Lancaster Phoenix
 - Cambridge Phoenix
+- Edinburgh City
+- University of Edinburgh
+- Glasgow Korfball
+- Dundee KC
+- Barrowland Bears
+- University of Strathclyde
 
 ---
 
@@ -41,9 +47,13 @@ Good luck, Jen. I think you’re brave.
 - **Tim (played 2-3 years) - Lancaster Phoenix**<br>I believe an exclusionary policy like this will reflect badly on korfball and puts korfball on the wrong side of history.
 
 - **Becky Lewis (played 10-20 years) - Cambridge Phoenix**<br>I agree wholeheartedly with this letter - this gender policy is simply exclusionary.
-As a non-binary player, it's incredibly invalidating to to be 'forced' to play as a gender I do not identify as - I've stopped playing this season as the gender dysphoria has gotten too much for me. No one is pretending to be trans to gain an advantage with in sport because they can see how awful we are treated simply for existing.<br>I've been playing korfball since I was 14 years old and it has been one of the most welcoming and inclusive communities I have ever been a part of, and I have met some of the most supportive people playing korfball. I have never had anyone question or be concerned about my gender identity within the korfball until the last year or so when this 'guidance' was published. I don't feel like I'm being supported anymore by the governing body, and given the current political climate, this could lead to korfball being unsafe for trans individuals.<br><br>Badminton England have changed their leagues so there is a women's game and then an 'open' game - available to any and all genders. As far as I've heard from players, this change was widely accepted and implemented nationwide with no issues at all. It really is that easy, and I'm so disappointed to see England Korfball take a stance as awful as they have. Do better for the people that love this sport.
+As a non-binary player, it's incredibly invalidating to to be 'forced' to play as a gender I do not identify as - I've stopped playing this season as the gender dysphoria has gotten too much for me. No one is pretending to be trans to gain an advantage with in sport because they can see how awful we are treated simply for existing.<br>I've been playing korfball since I was 14 years old and it has been one of the most welcoming and inclusive communities I have ever been a part of, and I have met some of the most supportive people playing korfball. I have never had anyone question or be concerned about my gender identity within the korfball until the last year or so when this 'guidance' was published. I don't feel like I'm being supported anymore by the governing body, and given the current political climate, this could lead to korfball being unsafe for trans individuals.<br>Badminton England have changed their leagues so there is a women's game and then an 'open' game - available to any and all genders. As far as I've heard from players, this change was widely accepted and implemented nationwide with no issues at all. It really is that easy, and I'm so disappointed to see England Korfball take a stance as awful as they have. Do better for the people that love this sport.
 
 - **Andrew Barnes (played 10 - 20 years) - Lancaster Phoenix**<br>I feel governing bodies are in a difficult position when drawing up rules and policies in this area and it seems EK have fallen in line with other NGBs. Korfball, as a mixed-gender sport is in a unique position. I do feel, though, that this provides an opportunity to take a different approach that reflects the values of inclusivity that draw many people to the sport. I suspect we don't have any accurate data for the number of transgender/ non-binary players but it probably represents a very small percentage of the (already small) korfball community, playing at a recreational level. We should ensure that the rules around gender allow them to continue to participate in the sport they love.
+
+- **Fraser Brown (played 10 - 20 years) - Glasgow Korfball**<br>The Scottish Korfball Association has specifically trans inclusive policies if England korfball are struggling with how to draft this!
+
+- **Anonymous (played 10 - 20 years)**<br>As someone who has played korfball for many years since childhood and supported the game for its team spirit and community, it angers me that systemic issues like this ruin the sport. It is a sport championed by people from all different identities and the governing organisation neglecting the livelihoods of these people is appalling. I agree with all the points highlighted in the letter, and hope that England Korfball can rethink this policy.
 
 ---
 

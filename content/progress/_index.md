@@ -34,6 +34,7 @@ author: ["Jennifer Cresswell"]
 - Manchester Warriors
 - Supernova
 - University of Nottingham
+- Leeds Hurricanes
 
 ---
 

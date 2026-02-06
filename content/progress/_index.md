@@ -36,6 +36,7 @@ author: ["Jennifer Cresswell"]
 - University of Nottingham
 - Leeds Hurricanes
 - Scotland National Team
+- Edinburgh Mavericks
 
 ---
 
@@ -69,7 +70,7 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 
 - **Imogen Dhanda (played 4 - 5 years) - NTU Korfball**<br>One of the best things about korfball is how inclusive it is. Inclusivity should not be taken away.
 
-- **Lucy Bryan (University of Sheffield Korfball Club) (played 4 - 5 years) - University of Sheffield Korfball Club**<br>The past two years the club has worked at implementing a non-binary policy in games and trainings. Whole club trainings is now practiced open category and the removal of gendered language. The policy has been successful and was well received and practiced at our previous two tournaments. Liaising both with England Korfball and BUCS. University of Sheffield Korfball Club is incredibly disappointed with the recent regulations and completely behind this open letter.
+- **Lucy Bryan (played 4 - 5 years) - University of Sheffield Korfball Club**<br>The past two years the club has worked at implementing a non-binary policy in games and trainings. Whole club trainings is now practiced open category and the removal of gendered language. The policy has been successful and was well received and practiced at our previous two tournaments. Liaising both with England Korfball and BUCS. University of Sheffield Korfball Club is incredibly disappointed with the recent regulations and completely behind this open letter.
 
 - **Conor Williams (played 4 - 5 years) - Leeds City**<br>Extremely disappointing to see this policy, particularly with the lack of transparency around it's development - seemingly just falling in line with others without any consultation with clubs or trans/non-binary athletes that would be affected. <br><br>Complete missed opportunity to live up to their supposed values of fairness and inclusivity. England Korfball need to do better.
 
@@ -86,6 +87,10 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Josh Wagstaff (played 5 - 10 years) - Supernova**<br>In times like these actively excluding trans people from a sport we all love for being so inclusive is nothing short of shameful
 
 - **Anonymous (played 5 - 10 years)**<br>Korfball was the most welcoming sport when I started uni. I tried out for many other sports including football and basketball and nothing quite hit like Korfball. I am a cis female but I am part of the queer community so I know the isolation that comes with feeling ‘different’. Korfball never made me feel that way and I want for that to continue for future generations.
+
+- **Owen Shea (played 10 - 20 years) - Edinburgh Mavericks, Scotland**<br>It's disappointing to see such an exclusionary and reactionary policy put in place and to read that it is already affecting people's opportunities for playing korfball. England Korfball should be encouraging people to play (regardless of their gender identity), not making it more difficult. I'm glad that the Scottish Korfball Association has adopted an inclusive approach and I wish that other countries would follow their example.
+
+- **Anonymous (played 2 - 3 years)**<br>The new gender policy is poorly thought out, exclusionary to Trans/NB people and as the letter points out increases risks of discrimination against women. Please think about just how intrusive it would be someone being asked for their birth certificate to participate in most of the regional leagues around the country - just because someone assesses them as not passing for a woman (this is possible for Cis and Trans people) - humiliating and unnecessary. This  is why policing gender in most levels and types of amateur sport is a stupid idea. Very poorly thought out and damaging policy. Disappointed in England Korfball as are 90% of the people I’ve talked to about this. Urge you to listen to our Korfball community and implement a better policy rapidly.
 
 ---
 

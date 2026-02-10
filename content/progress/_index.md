@@ -37,6 +37,7 @@ author: ["Jennifer Cresswell"]
 - Leeds Hurricanes
 - Scotland National Team
 - Edinburgh Mavericks
+- Bristol Thunder
 
 ---
 

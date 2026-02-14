@@ -38,6 +38,7 @@ author: ["Jennifer Cresswell"]
 - Scotland National Team
 - Edinburgh Mavericks
 - Bristol Thunder
+- University of Reading Knights
 
 ---
 
@@ -92,6 +93,10 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Owen Shea (played 10 - 20 years) - Edinburgh Mavericks, Scotland**<br>It's disappointing to see such an exclusionary and reactionary policy put in place and to read that it is already affecting people's opportunities for playing korfball. England Korfball should be encouraging people to play (regardless of their gender identity), not making it more difficult. I'm glad that the Scottish Korfball Association has adopted an inclusive approach and I wish that other countries would follow their example.
 
 - **Anonymous (played 2 - 3 years)**<br>The new gender policy is poorly thought out, exclusionary to Trans/NB people and as the letter points out increases risks of discrimination against women. Please think about just how intrusive it would be someone being asked for their birth certificate to participate in most of the regional leagues around the country - just because someone assesses them as not passing for a woman (this is possible for Cis and Trans people) - humiliating and unnecessary. This  is why policing gender in most levels and types of amateur sport is a stupid idea. Very poorly thought out and damaging policy. Disappointed in England Korfball as are 90% of the people I’ve talked to about this. Urge you to listen to our Korfball community and implement a better policy rapidly.
+
+- **Anonymous (played 1 year)**<br>By enforcing that transgender women play in a gender that does not represent them, you are impacting gameplay. Most men do not want to defend against a women (which is what trans women are) thus will not play to their full potential. The same goes for the women themselves - by forcing them to play against men, you are putting them at an unfair disadvantage. You are making the assumption that because someone was born male, they have grown and developed like a man and thus have the same strength. This is wholely untrue, and displays a clear lack of consideration for individual differences. It has been shown time and time again in sport that trans women perform at the same level, if not below, cis women and to put them against men would be going against the very rules of korfball that this policy is aiming (and failing) to protect. There is a reason men defend men and women defend women, and we need to acknowledge the fact that trans women ARE women. They have a place in this sport and that needs to be celebrated and embraced.
+
+- **Anonymous (played <1 year)**<br>Korfball should be inclusive for all, and the fact that trans-women specifically are being separated into a different category that doesn’t align with their own lived experience, is not okay. It’s 2026, let’s act like it. Korfball is for all.
 
 ---
 

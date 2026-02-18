@@ -79,8 +79,8 @@ params:
       icon: picture.png
       iconHeight: 18
     sigbanner:
-      signatures: 102
-      clubs: 25
+      signatures: 108
+      clubs: 26
       message: "Signatures: "
       message2: "Clubs represented: "
 

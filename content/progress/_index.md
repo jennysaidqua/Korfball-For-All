@@ -12,6 +12,12 @@ author: ["Jennifer Cresswell"]
 
 ---
 
+## Highlighted Comment of the day
+
+**Matthew Morrison (played 4 - 5 years) - Southampton Spartans**<br>Korfball cannot in good faith market itself as an inclusive, mixed-gender sport when the policies of its governing bodies indirectly exclude people on the basis of their gender (i.e., by forcing those players to participate in a demeaning manner, if at all, in a gendered role against their identity and lived experience). In their well-meaning attempt to "protect female elite sport" from an unlikely, overstated problem that has never meaningfully materialised, England Korfball's decision negatively and disproportionately affects players at the social and social-competitive, community levels of the sport. As guardians of the world's best mixed-gender sport, England Korfball has a unique and powerful opportunity to lead on the side of progression here; the organisation, as well as the IKA, must not uncritically follow suit with the governing bodies of other sports, but rather consult with its players (at all levels) towards a more inclusive and nuanced policy.
+
+---
+
 ## Clubs Represented
 
 - Nottingham Korfball Club (NKC)
@@ -39,10 +45,11 @@ author: ["Jennifer Cresswell"]
 - Edinburgh Mavericks
 - Bristol Thunder
 - University of Reading Knights
+- Southampton Spartans
 
 ---
 
-## Comments
+## All Comments
 
 - **Jenny Cresswell (played 4-5 years) - NKC**<br>I've not been playing this season due to the new policy and it's not been fun. I'm not even good idk why this policy is a thing! I just want to play Korfball!
 
@@ -97,6 +104,14 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Anonymous (played 1 year)**<br>By enforcing that transgender women play in a gender that does not represent them, you are impacting gameplay. Most men do not want to defend against a women (which is what trans women are) thus will not play to their full potential. The same goes for the women themselves - by forcing them to play against men, you are putting them at an unfair disadvantage. You are making the assumption that because someone was born male, they have grown and developed like a man and thus have the same strength. This is wholely untrue, and displays a clear lack of consideration for individual differences. It has been shown time and time again in sport that trans women perform at the same level, if not below, cis women and to put them against men would be going against the very rules of korfball that this policy is aiming (and failing) to protect. There is a reason men defend men and women defend women, and we need to acknowledge the fact that trans women ARE women. They have a place in this sport and that needs to be celebrated and embraced.
 
 - **Anonymous (played <1 year)**<br>Korfball should be inclusive for all, and the fact that trans-women specifically are being separated into a different category that doesn’t align with their own lived experience, is not okay. It’s 2026, let’s act like it. Korfball is for all.
+
+
+- **Owain Larcombe  (played 5 - 10 years) - Southampton Spartans**<br>Fully supportive of the letter!  Korfball should be a safe place for all and there is more to be done to ensure that!  <br>The feeling that some groups do not feel safe and welcome should be ringing alarm bells as an area to improve!
+
+- **David Creed (played 10 - 20 years) - Southampton Spartans**<br>Korfball should be open to all
+
+- **Matthew Morrison (played 4 - 5 years) - Southampton Spartans**<br>Korfball cannot in good faith market itself as an inclusive, mixed-gender sport when the policies of its governing bodies indirectly exclude people on the basis of their gender (i.e., by forcing those players to participate in a demeaning manner, if at all, in a gendered role against their identity and lived experience). In their well-meaning attempt to "protect female elite sport" from an unlikely, overstated problem that has never meaningfully materialised, England Korfball's decision negatively and disproportionately affects players at the social and social-competitive, community levels of the sport. As guardians of the world's best mixed-gender sport, England Korfball has a unique and powerful opportunity to lead on the side of progression here; the organisation, as well as the IKA, must not uncritically follow suit with the governing bodies of other sports, but rather consult with its players (at all levels) towards a more inclusive and nuanced policy.
+
 
 ---
 

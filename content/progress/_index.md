@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Matthew Morrison (played 4 - 5 years) - Southampton Spartans**<br>Korfball cannot in good faith market itself as an inclusive, mixed-gender sport when the policies of its governing bodies indirectly exclude people on the basis of their gender (i.e., by forcing those players to participate in a demeaning manner, if at all, in a gendered role against their identity and lived experience). In their well-meaning attempt to "protect female elite sport" from an unlikely, overstated problem that has never meaningfully materialised, England Korfball's decision negatively and disproportionately affects players at the social and social-competitive, community levels of the sport. As guardians of the world's best mixed-gender sport, England Korfball has a unique and powerful opportunity to lead on the side of progression here; the organisation, as well as the IKA, must not uncritically follow suit with the governing bodies of other sports, but rather consult with its players (at all levels) towards a more inclusive and nuanced policy.
+**Anne Fitzsimmons (played 5 - 10 years) - Manchester Warriors**<br>Korfball should be for everyone, we can’t market ourselves as a gender inclusive sport whilst excluding people based on their gender identity. Trans women are women, rules and policies that hurt them hurt all of us.
 
 ---
 
@@ -105,13 +105,13 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 
 - **Anonymous (played <1 year)**<br>Korfball should be inclusive for all, and the fact that trans-women specifically are being separated into a different category that doesn’t align with their own lived experience, is not okay. It’s 2026, let’s act like it. Korfball is for all.
 
-
 - **Owain Larcombe  (played 5 - 10 years) - Southampton Spartans**<br>Fully supportive of the letter!  Korfball should be a safe place for all and there is more to be done to ensure that!  <br>The feeling that some groups do not feel safe and welcome should be ringing alarm bells as an area to improve!
 
 - **David Creed (played 10 - 20 years) - Southampton Spartans**<br>Korfball should be open to all
 
 - **Matthew Morrison (played 4 - 5 years) - Southampton Spartans**<br>Korfball cannot in good faith market itself as an inclusive, mixed-gender sport when the policies of its governing bodies indirectly exclude people on the basis of their gender (i.e., by forcing those players to participate in a demeaning manner, if at all, in a gendered role against their identity and lived experience). In their well-meaning attempt to "protect female elite sport" from an unlikely, overstated problem that has never meaningfully materialised, England Korfball's decision negatively and disproportionately affects players at the social and social-competitive, community levels of the sport. As guardians of the world's best mixed-gender sport, England Korfball has a unique and powerful opportunity to lead on the side of progression here; the organisation, as well as the IKA, must not uncritically follow suit with the governing bodies of other sports, but rather consult with its players (at all levels) towards a more inclusive and nuanced policy.
 
+- **Liberty Gaunt (played 10 - 20 years) - Southampton Spartans**<br>Jenny’s letter articulates the issue clearly: asking trans women to compete against their lived gender, or demanding paperwork not required of cisgender players, is fundamentally exclusionary
 
 ---
 

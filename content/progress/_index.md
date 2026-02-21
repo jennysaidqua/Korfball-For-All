@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Anne Fitzsimmons (played 5 - 10 years) - Manchester Warriors**<br>Korfball should be for everyone, we can’t market ourselves as a gender inclusive sport whilst excluding people based on their gender identity. Trans women are women, rules and policies that hurt them hurt all of us.
+**Josh Wagstaff (played 5 - 10 years) - Supernova**<br>In times like these actively excluding trans people from a sport we all love for being so inclusive is nothing short of shameful
 
 ---
 

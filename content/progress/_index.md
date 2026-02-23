@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Josh Wagstaff (played 5 - 10 years) - Supernova**<br>In times like these actively excluding trans people from a sport we all love for being so inclusive is nothing short of shameful
+- **Anonymous (played 2 - 3 years)**<br>One of the many reasons I have always loved korfball is its inclusivity. I don’t think the importance of creating safe spaces (for everyone) can be underestimated is a world that’s becoming continuously more hostile. I know so many people for whom Korfball as a sport and a community has made a huge difference to their lives. The policies England Korfball make impact their own capacity to make a positive difference on people’s lives and be a leading example of inclusion in sport.
 
 ---
 

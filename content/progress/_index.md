@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-- **Anonymous (played 2 - 3 years)**<br>One of the many reasons I have always loved korfball is its inclusivity. I don’t think the importance of creating safe spaces (for everyone) can be underestimated is a world that’s becoming continuously more hostile. I know so many people for whom Korfball as a sport and a community has made a huge difference to their lives. The policies England Korfball make impact their own capacity to make a positive difference on people’s lives and be a leading example of inclusion in sport.
+**Lucy Bryan (played 4 - 5 years) - University of Sheffield Korfball Club**<br>The past two years the club has worked at implementing a non-binary policy in games and trainings. Whole club trainings is now practiced open category and the removal of gendered language. The policy has been successful and was well received and practiced at our previous two tournaments. Liaising both with England Korfball and BUCS. University of Sheffield Korfball Club is incredibly disappointed with the recent regulations and completely behind this open letter.
 
 ---
 

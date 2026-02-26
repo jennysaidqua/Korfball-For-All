@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Lucy Bryan (played 4 - 5 years) - University of Sheffield Korfball Club**<br>The past two years the club has worked at implementing a non-binary policy in games and trainings. Whole club trainings is now practiced open category and the removal of gendered language. The policy has been successful and was well received and practiced at our previous two tournaments. Liaising both with England Korfball and BUCS. University of Sheffield Korfball Club is incredibly disappointed with the recent regulations and completely behind this open letter.
+**Austin Key (played 5 - 10 years) - Reading Rooks**<br>Korfball was built in the 20th century and led that way for inclusion and this is not something we should lose now. Korfball should be a space where all are welcome, not excluded!
 
 ---
 
@@ -46,6 +46,7 @@ author: ["Jennifer Cresswell"]
 - Bristol Thunder
 - University of Reading Knights
 - Southampton Spartans
+- Reading Rooks
 
 ---
 
@@ -112,6 +113,8 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Matthew Morrison (played 4 - 5 years) - Southampton Spartans**<br>Korfball cannot in good faith market itself as an inclusive, mixed-gender sport when the policies of its governing bodies indirectly exclude people on the basis of their gender (i.e., by forcing those players to participate in a demeaning manner, if at all, in a gendered role against their identity and lived experience). In their well-meaning attempt to "protect female elite sport" from an unlikely, overstated problem that has never meaningfully materialised, England Korfball's decision negatively and disproportionately affects players at the social and social-competitive, community levels of the sport. As guardians of the world's best mixed-gender sport, England Korfball has a unique and powerful opportunity to lead on the side of progression here; the organisation, as well as the IKA, must not uncritically follow suit with the governing bodies of other sports, but rather consult with its players (at all levels) towards a more inclusive and nuanced policy.
 
 - **Liberty Gaunt (played 10 - 20 years) - Southampton Spartans**<br>Jenny’s letter articulates the issue clearly: asking trans women to compete against their lived gender, or demanding paperwork not required of cisgender players, is fundamentally exclusionary
+
+- **Austin Key (played 5 - 10 years) - Reading Rooks**<br>Korfball was built in the 20th century and led that way for inclusion and this is not something we should lose now. Korfball should be a space where all are welcome, not excluded!
 
 ---
 

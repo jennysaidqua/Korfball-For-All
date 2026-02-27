@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Austin Key (played 5 - 10 years) - Reading Rooks**<br>Korfball was built in the 20th century and led that way for inclusion and this is not something we should lose now. Korfball should be a space where all are welcome, not excluded!
+**Anonymous (played 2 - 3 years)**<br>Inclusivity is the heart of Korfball and this new policy goes directly against that. Everyone should feel safe and comfortable to play Korfball so I hope England Korfball reconsiders this damaging policy.
 
 ---
 
@@ -115,6 +115,8 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Liberty Gaunt (played 10 - 20 years) - Southampton Spartans**<br>Jenny’s letter articulates the issue clearly: asking trans women to compete against their lived gender, or demanding paperwork not required of cisgender players, is fundamentally exclusionary
 
 - **Austin Key (played 5 - 10 years) - Reading Rooks**<br>Korfball was built in the 20th century and led that way for inclusion and this is not something we should lose now. Korfball should be a space where all are welcome, not excluded!
+
+- **Anonymous (played 2 - 3 years)**<br>Inclusivity is the heart of Korfball and this new policy goes directly against that. Everyone should feel safe and comfortable to play Korfball so I hope England Korfball reconsiders this damaging policy.
 
 ---
 

@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Anonymous (played 2 - 3 years)**<br>Inclusivity is the heart of Korfball and this new policy goes directly against that. Everyone should feel safe and comfortable to play Korfball so I hope England Korfball reconsiders this damaging policy.
+**Anonymous (played 4 - 5 years)**<br>Korfball is almost unique in its inclusivity by being an intentionally fully mixed gender sport. Please keep this inclusive nature by including the trans community in the korfball community!
 
 ---
 
@@ -117,6 +117,11 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Austin Key (played 5 - 10 years) - Reading Rooks**<br>Korfball was built in the 20th century and led that way for inclusion and this is not something we should lose now. Korfball should be a space where all are welcome, not excluded!
 
 - **Anonymous (played 2 - 3 years)**<br>Inclusivity is the heart of Korfball and this new policy goes directly against that. Everyone should feel safe and comfortable to play Korfball so I hope England Korfball reconsiders this damaging policy.
+
+- **Anonymous (played 4 - 5 years)**<br>Korfball is almost unique in its inclusivity by being an intentionally fully mixed gender sport. Please keep this inclusive nature by including the trans community in the korfball community!
+
+- **Eric Van Looy (played 10 - 20 years) - Reading Rooks Korfball Club**<br>Being valued as a person should always triumph over reservations one may have about perceived physical advantages or safety. We are lucky to be a non-professional, inclusive sport in England where everyone is welcome.
+
 
 ---
 

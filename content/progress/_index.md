@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Alex Selby (played 5 - 10 years) - Reading Rooks**<br>The new policy is a step in the wrong direction when it comes to inclusion and fairness in our sport, at a time when trans people face growing hostility simply for being themselves. I am a queer person who found a great sense of support and community within korfball, that I hadn't felt in other sports environments before. Knowing that others would be excluded from that feeling by this policy is very disheartening.
+**Natasha Wetton (played 5 - 10 years) - Manchester Warriors**<br>Korfball is the most inclusive sport I know and that is what makes it such a fantastic community to be a part of. I love that everyone is welcome and I don't want that to change. We are a great example of people of all ages, experiences, genders coming together and being part of a team.
 
 ---
 
@@ -123,6 +123,8 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Eric Van Looy (played 10 - 20 years) - Reading Rooks Korfball Club**<br>Being valued as a person should always triumph over reservations one may have about perceived physical advantages or safety. We are lucky to be a non-professional, inclusive sport in England where everyone is welcome.
 
 - **Alex Selby (played 5 - 10 years) - Reading Rooks**<br>The new policy is a step in the wrong direction when it comes to inclusion and fairness in our sport, at a time when trans people face growing hostility simply for being themselves. I am a queer person who found a great sense of support and community within korfball, that I hadn't felt in other sports environments before. Knowing that others would be excluded from that feeling by this policy is very disheartening.
+
+**Natasha Wetton (played 5 - 10 years) - Manchester Warriors**<br>Korfball is the most inclusive sport I know and that is what makes it such a fantastic community to be a part of. I love that everyone is welcome and I don't want that to change. We are a great example of people of all ages, experiences, genders coming together and being part of a team.
 
 ---
 

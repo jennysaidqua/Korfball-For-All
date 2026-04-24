@@ -14,7 +14,7 @@ author: ["Jennifer Cresswell"]
 
 ## Highlighted Comment of the day
 
-**Natasha Wetton (played 5 - 10 years) - Manchester Warriors**<br>Korfball is the most inclusive sport I know and that is what makes it such a fantastic community to be a part of. I love that everyone is welcome and I don't want that to change. We are a great example of people of all ages, experiences, genders coming together and being part of a team.
+**Sam Johns (played 10 - 20 years) - Manchester Hawks**<br>I agree with the letter and would like the rules to promote inclusivity.
 
 ---
 
@@ -47,6 +47,7 @@ author: ["Jennifer Cresswell"]
 - University of Reading Knights
 - Southampton Spartans
 - Reading Rooks
+- University of Manchester
 
 ---
 
@@ -125,6 +126,12 @@ As a non-binary player, it's incredibly invalidating to to be 'forced' to play a
 - **Alex Selby (played 5 - 10 years) - Reading Rooks**<br>The new policy is a step in the wrong direction when it comes to inclusion and fairness in our sport, at a time when trans people face growing hostility simply for being themselves. I am a queer person who found a great sense of support and community within korfball, that I hadn't felt in other sports environments before. Knowing that others would be excluded from that feeling by this policy is very disheartening.
 
 **Natasha Wetton (played 5 - 10 years) - Manchester Warriors**<br>Korfball is the most inclusive sport I know and that is what makes it such a fantastic community to be a part of. I love that everyone is welcome and I don't want that to change. We are a great example of people of all ages, experiences, genders coming together and being part of a team.
+
+**Sam Johns (played 10 - 20 years) - Manchester Hawks**<br>I agree with the letter and would like the rules to promote inclusivity.
+
+**Mary Evans (played 1 year) - University of Manchester 2s**<br>Korfball is for everyone and we all should feel comfortable in who we are!!
+
+**Anonymous (played 1 year)**<br>Korfball is a brilliant sport that brings so many people together. Being mixed gender is one of the most unique things about this sport. Everyone should be able to get involved.
 
 ---
 
